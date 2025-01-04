@@ -1,0 +1,1 @@
+scp -i data-engineering-spark-cluster_key.pem -rp azureuser@52.158.45.235:/home/azureuser/output ./src/
