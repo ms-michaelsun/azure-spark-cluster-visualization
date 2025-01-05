@@ -4,7 +4,7 @@
 This project analyzes Japan's visa issuance dataset using Apache Spark for distributed data processing on an Azure Virtual Machine. The pipeline includes data cleaning, transformation, and visualization generation through HTML reports. The analysis provides insights into visa issuance patterns, trends, and demographics. The Spark cluster is containerized using Docker for easy deployment and scaling.
 
 ## Architecture
-
+![Architecture Diagram](/data-arq.png)
 
 ### Infrastructure
 - **Azure VM**: Primary compute instance
