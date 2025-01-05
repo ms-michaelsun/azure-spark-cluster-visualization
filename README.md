@@ -70,3 +70,7 @@ sudo docker exec -it azureuser-spark-worker-1 spark-submit --master spark://172.
 
 8. After processing we can use the "download_file.sh" to download the finished html visualization files to our output directory.
 
+
+Output example:
+![Output Example](/output-example.png)
+
